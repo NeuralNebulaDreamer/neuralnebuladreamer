@@ -49,7 +49,7 @@ I presented my research at the 1st International Conference on AI and MultiDisci
 ---
 
 📫 **How to reach me:**  
-[<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7c1b1ced-a412-4ccc-ac1e-25c81a7d5aef" />
+[<img width="40" height="30" alt="image" src="https://github.com/user-attachments/assets/7c1b1ced-a412-4ccc-ac1e-25c81a7d5aef" />
 ](mailto:rajadaniyalofficial11@@gmail.com) • [LinkedIn](https://linkedin.com/in/rajadaniyal) • [GitHub](https://github.com/NeuralNebulaDreamer)
 
 ---
