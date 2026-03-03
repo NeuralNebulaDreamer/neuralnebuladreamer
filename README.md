@@ -1,16 +1,15 @@
-## Hi there 👋
+### NeuralNebulaDreamer
 
-<!--
-**NeuralNebulaDreamer/neuralnebuladreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer | Multimodal Systems (CV+NLP) | Published Researcher @ ICAMI-2026**
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:** PyTorch • TensorFlow • LangChain • Transformers • OpenCV • Swift • Core ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projects:**
+- [iOS Visual Assistant](link) — Multimodal app for visually impaired (YOLO + BERT + Knowledge Graphs)
+- [Portfolio Chatbot](link) — LangChain + Streamlit AI assistant
+- [Chat with PDF](link) — RAG system with FAISS + OpenAI
+- [YouTube Q/A Bot](link) — Whisper + RAG for video understanding
+
+📄 **Research:** "Neuro-Symbolic VQA with Chain-of-Thought Reasoning" — ICAMI-2026
+
+📫 **Contact:** [Email](mailto:yourname@gmail.com) • [LinkedIn](link) • [Portfolio](link)
